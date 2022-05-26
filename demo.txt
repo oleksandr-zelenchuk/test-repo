@@ -1,2 +1,4 @@
 New strings
 In a new file
+Two more lines
+In the test mode
